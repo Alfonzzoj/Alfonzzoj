@@ -77,7 +77,6 @@
       </a>
   </details>
   
-<br />
 
 ![Profile views](https://gpvc.arturio.dev/alfonzzoj) 
 

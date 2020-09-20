@@ -76,7 +76,10 @@
         <img style="height:175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALFONZZOJ&layout=compact&hide=Hack&theme=react" />
       </a>
   </details>
+  
+<br />
 
+![Profile views](https://gpvc.arturio.dev/alfonzzoj) 
 
 
 [website]: alfonzzoj.github.io

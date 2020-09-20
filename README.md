@@ -13,8 +13,6 @@
 - 🤔 more: I am very interested in pixel art and developing videogames with that style
 - ⚡ Fun fact: play video games until very late ( rogue like rpg, my favorite genre )🎮
 
-<br/>
-
 ### Connect with me:
 
 <!-- Website -->

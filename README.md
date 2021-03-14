@@ -1,10 +1,9 @@
-<img align="right" width="10%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>
-
 ### Hi , I'm Jesus Alfonzo - yes with 'z' 😅
 
 [![Website](https://img.shields.io/static/v1?label=Alfonzzoj.com&message=up&color=blueviolet&style=for-the-badge&logo=microsoft-edge)](https://alfonzzoj.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alfonzzoj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alfonzzoj)
 
+<img align="right" width="10%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>
 
 ## I'm Web / Apps Developer
 
@@ -15,8 +14,6 @@
 - 🥅 2021 Goals: expand my number of personal projects
 - 🤔 more: I am very interested in pixel art and developing videogames with that style
 - ⚡ Fun fact: play video games until very late ( rogue like rpg, my favorite genre )🎮
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Alfonzzoj&repo=Alfonzzoj&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Connect with me:
 

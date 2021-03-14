@@ -1,6 +1,6 @@
 ### Hi , I'm Jesus Alfonzo - yes with 'z' 😅
 
-[![Website](https://img.shields.io/website?label=azzocode.com&style=for-the-badge&url=https%3A%2F%2Falfonzzoj.github.io)](alfonzzoj.github.io)
+[![Website](https://img.shields.io/website?label=azzocode.com&style=for-the-badge&url=https%3A%2F%2F)](alfonzzoj.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alfonzzoj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alfonzzoj)
 
 ## I'm Web / Apps Developer

@@ -1,9 +1,8 @@
-### Hi , I'm Jesus Alfonzo - yes with 'z' 😅
+### Hi , I'm Jesus Alfonzo - yes with 'z' 😅 <img align="right" width="10%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>
 
 [![Website](https://img.shields.io/static/v1?label=Alfonzzoj.com&message=up&color=blueviolet&style=for-the-badge&logo=microsoft-edge)](https://alfonzzoj.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alfonzzoj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alfonzzoj)
 
-<img align="right" width="10%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>
 
 ## I'm Web / Apps Developer
 

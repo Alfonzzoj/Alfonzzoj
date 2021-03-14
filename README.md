@@ -16,7 +16,7 @@
 ### Connect with me:
 
 <!-- Website -->
-[<img align="left" alt="Azzocode.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="Azzocode.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://alfonzzoj.github.io/)
 <!--  Facebook -->
 [<img align="left" alt="Azzocode | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <!-- Twitter -->
@@ -77,7 +77,7 @@
 ![Profile views](https://gpvc.arturio.dev/alfonzzoj) 
 
 
-[website]: alfonzzoj.github.io
+[Website]: alfonzzoj.github.io
 [facebook]: https://www.facebook.com/azzocode
 [twitter]: https://twitter.com/Alfonzzoj
 <!-- [youtube]: https://www.youtube.com/channel/UCqmZwSRUxvYI1aungO3LMlw) -->

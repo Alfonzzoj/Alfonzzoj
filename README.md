@@ -48,8 +48,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue.js-61DAFB?style=flat-square&logo=vue.js&logoColor=ffffff&color=4FC08D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -61,7 +61,7 @@
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-0078D6?style=flat-square&logo=ubuntu&logoColor=ffffff&color=E95420)
 ![Edge](http://img.shields.io/badge/-Microsoft_edge-0078D6?style=flat-square&logo=microsoft-edge&logoColor=ffffff&color=0078D7)
 ![Discord](http://img.shields.io/badge/-Discord-0078D6?style=flat-square&logo=Discord&logoColor=ffffff&color=7289DA)
-![Notion](http://img.shields.io/badge/-Notion-0078D6?style=flat-square&logo=notion&logoColor=ffffff&color=000000)
+![Notion](http://img.shields.io/badge/-Notion-0078D6?style=flat-square&logo=notion&logoColor=000000&color=ffffff)
 ![YoutubeMusic](http://img.shields.io/badge/-Youtube_Music-0078D6?style=flat-square&logo=youtube-music&logoColor=ffffff&color=FF0000)
 
 

@@ -1,22 +1,22 @@
 ### Hi , I'm Jesus Alfonzo - yes with 'z' 😅
 
-[![Website](https://img.shields.io/website?label=azzocode.com&style=for-the-badge&url=https%3A%2F%2F)](alfonzzoj.github.io)
+[![Website](https://img.shields.io/static/v1?label=Alfonzzoj.com&message=up&color=blueviolet&style=for-the-badge&logo=microsoft-edge)](https://alfonzzoj.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alfonzzoj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alfonzzoj)
 
 ## I'm Web / Apps Developer
 
 - 🔭 I’m currently working at home 🏡
-- 🧐 I’m currently learning Dart for Flutter 📲
+- 🧐 I’m currently learning Unity / Ionic 📲
 - 🌱 But learning of everything 🤣
 - 👯 I’m looking to collaborate with other development projects
-- 🥅 2020 Goals: expand my number of personal projects
+- 🥅 2021 Goals: expand my number of personal projects
 - 🤔 more: I am very interested in pixel art and developing videogames with that style
 - ⚡ Fun fact: play video games until very late ( rogue like rpg, my favorite genre )🎮
 
 ### Connect with me:
 
 <!-- Website -->
-[<img align="left" alt="Azzocode.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Azzocode.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 <!--  Facebook -->
 [<img align="left" alt="Azzocode | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <!-- Twitter -->
@@ -36,8 +36,6 @@
 <img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/php/php.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/linux/linux.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
 <br />

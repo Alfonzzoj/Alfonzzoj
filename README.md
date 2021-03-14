@@ -14,6 +14,8 @@
 - 🤔 more: I am very interested in pixel art and developing videogames with that style
 - ⚡ Fun fact: play video games until very late ( rogue like rpg, my favorite genre )🎮
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Alfonzzoj&repo=Alfonzzoj&countColorcountColor&countColor=%237B1E7B"/>
+
 ### Connect with me:
 
 <!-- Website -->

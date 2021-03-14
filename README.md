@@ -1,7 +1,10 @@
+<img align="right" width="10%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>
+
 ### Hi , I'm Jesus Alfonzo - yes with 'z' 😅
 
 [![Website](https://img.shields.io/static/v1?label=Alfonzzoj.com&message=up&color=blueviolet&style=for-the-badge&logo=microsoft-edge)](https://alfonzzoj.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alfonzzoj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alfonzzoj)
+
 
 ## I'm Web / Apps Developer
 
@@ -12,6 +15,8 @@
 - 🥅 2021 Goals: expand my number of personal projects
 - 🤔 more: I am very interested in pixel art and developing videogames with that style
 - ⚡ Fun fact: play video games until very late ( rogue like rpg, my favorite genre )🎮
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Alfonzzoj&repo=Alfonzzoj&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Connect with me:
 
@@ -81,7 +86,7 @@
 <details>
   <summary> ⚡: Github Stats 📊</summary>
       <a >
-        <img   src="https://github-readme-stats.vercel.app/api?username=alfonzzoj&show_icons=true&theme=dark&title_color=2cf26e&include_all_commits=true" />
+        <img   src="https://github-readme-stats.vercel.app/api?username=alfonzzoj&show_icons=true&theme=radical&include_all_commits=true" />
       </a>
 
 </details>
@@ -89,14 +94,14 @@
 
 <!-- Top langs -->
   <details>
-    <summary> ⚡: Top languages 🧠</summary>
+    <summary> ⚡: Most used languages  🧠</summary>
       <a>
-        <img style="height:175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALFONZZOJ&layout=compact&hide=Hack&theme=react" />
+        <img style="height:175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALFONZZOJ&layout=compact&hide=Hack&theme=radical" />
       </a>
   </details>
   
 
-![Profile views](https://gpvc.arturio.dev/alfonzzoj) 
+
 
 
 [Website]: alfonzzoj.github.io

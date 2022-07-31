@@ -7,10 +7,10 @@
 ## I'm Web / Apps Developer <a href="https://www.linkedin.com/in/alfonzzoj/"><img align="right" src="https://img.shields.io/badge/Jesús Alfonzo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 - 🔭 I’m currently working at home 🏡
-- 🧐 I’m currently learning React.js 👁‍🗨
+- 🧐 I’m currently learning Vue.js 👁‍🗨
 - 🌱 But learning of everything 🤣
 - 👯 I’m looking to collaborate with other development projects
-- 🥅 2021 Goals: expand my number of personal projects
+- 🥅 2022 Goals: expand my number of personal projects
 - 🤔 more: I am very interested in pixel art and developing videogames with that style
 - ⚡ Fun fact: play video games until very late ( rogue like rpg, my favorite genre )🎮
 

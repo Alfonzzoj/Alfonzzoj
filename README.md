@@ -34,17 +34,19 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/React%20-%230C4D9B.svg?&style=flat-square&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery%20-%230C4D9B.svg?&style=flat-square&logo=jquery&logoColor=7BCFF4)
 ![PHP](http://img.shields.io/badge/-PHP-0078D6?style=flat-square&logo=php&logoColor=ffffff&color=777BB4)
 ![Laravel](http://img.shields.io/badge/-Laravel-0078D6?style=flat-square&logo=laravel&logoColor=ffffff&color=FF2D20)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f3.svg?style=flat-square&logo=mysql&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery%20-%230C4D9B.svg?&style=flat-square&logo=jquery&logoColor=7BCFF4)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Tailwind.css](https://img.shields.io/badge/tailwind_css%20-%2314B1BB.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
 
 *other technologies that I use*
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Firebase](http://img.shields.io/badge/-Firebase-FF7139?style=flat-square&logo=firebase&logoColor=ffffff&color=FFCA28)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Cplusplus](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)

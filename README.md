@@ -1,8 +1,8 @@
 ### Hi , I'm Jesus Alfonzo - yes with 'z' 😅 <img align="right" width="10%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>
 
 [![Website](https://img.shields.io/static/v1?label=Alfonzzoj.com&message=up&color=blueviolet&style=for-the-badge&logo=microsoft-edge)](https://alfonzzoj.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Alfonzzoj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alfonzzoj)
-
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Alfonzzoj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alfonzzoj)
+-->
 
 ## I'm Web / Apps Developer <a href="https://www.linkedin.com/in/alfonzzoj/"><img align="right" src="https://img.shields.io/badge/Jesús Alfonzo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
@@ -15,18 +15,18 @@
 - ⚡ Fun fact: play video games until very late ( rogue like rpg, my favorite genre )🎮
 
 ### Connect with me:
+<!--
 
-<!-- Website -->
 [<img align="left" alt="Azzocode.com" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://alfonzzoj.github.io/)
-<!--  Facebook -->
-[<img align="left" alt="Azzocode | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<!-- Twitter -->
-[<img align="left" width="28px" alt="Alfonzzoj | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-<!-- Linkedin -->
-[<img align="left" alt="Alfonzzoj | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- instagram -->
-[<img align="left" alt="Alfonzzoj | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt="Azzocode | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+[<img align="left" width="28px" alt="Alfonzzoj | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+
+[<img align="left" alt="Alfonzzoj | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Alfonzzoj | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+-->
 <br />
 
 ### Technology stack:

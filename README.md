@@ -14,8 +14,8 @@
 - 🤔 more: I am very interested in pixel art and developing videogames with that style
 - ⚡ Fun fact: play video games until very late ( rogue like rpg, my favorite genre )🎮
 
-### Connect with me:
 <!--
+### Connect with me:
 
 [<img align="left" alt="Azzocode.com" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://alfonzzoj.github.io/)
 

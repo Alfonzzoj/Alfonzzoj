@@ -1,102 +1,81 @@
-### Hi , I'm Jesus Alfonzo - yes with 'z' 😅 <img align="right" width="10%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>
+<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzhxNzc4MGYxemI5d2I3bzMzNWZ0dzg3c2d2eWh6dzg1MmR3dmZraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/200w.gif"  />
 
-[![Website](https://img.shields.io/static/v1?label=Alfonzzoj.com&message=up&color=blueviolet&style=for-the-badge&logo=microsoft-edge)](https://alfonzzoj.github.io/)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Alfonzzoj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Alfonzzoj)
--->
+###
 
-## I'm Web / Apps Developer <a href="https://www.linkedin.com/in/alfonzzoj/"><img align="right" src="https://img.shields.io/badge/Jesús Alfonzo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🔭 I’m currently working at home 🏡
-- 🧐 I’m currently learning Vue.js 👁‍🗨
-- 🌱 But learning of everything 🤣
-- 👯 I’m looking to collaborate with other development projects
-- 🥅 2022 Goals: expand my number of personal projects
-- 🤔 more: I am very interested in pixel art and developing videogames with that style
-- ⚡ Fun fact: play video games until very late ( rogue like rpg, my favorite genre )🎮
+###
 
-<!--
-### Connect with me:
+<p align="left">My name is Jesus Alfonzo, a Software Engineer / Full-Stack web developer.</p>
 
-[<img align="left" alt="Azzocode.com" width="28px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://alfonzzoj.github.io/)
+###
 
-[<img align="left" alt="Azzocode | Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<p align="left">🌱 Currently learning microservices and AWS integrations.<br>🎯 Goals: Lead innovative teams and drive cutting-edge solutions.<br>👯 I’m looking to collaborate with other development projects.<br>⚡ Fun fact: I love traveling and video games .</p>
 
-[<img align="left" width="28px" alt="Alfonzzoj | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+###
 
-[<img align="left" alt="Alfonzzoj | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h2 align="left">About me</h2>
 
-[<img align="left" alt="Alfonzzoj | Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
--->
-<br />
+###
 
-### Technology stack:
+<h3 align="left">Coding philosophy</h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/React%20-%230C4D9B.svg?&style=flat-square&logo=react&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery%20-%230C4D9B.svg?&style=flat-square&logo=jquery&logoColor=7BCFF4)
-![PHP](http://img.shields.io/badge/-PHP-0078D6?style=flat-square&logo=php&logoColor=ffffff&color=777BB4)
-![Laravel](http://img.shields.io/badge/-Laravel-0078D6?style=flat-square&logo=laravel&logoColor=ffffff&color=FF2D20)
-![MySQL](https://img.shields.io/badge/mysql-%2300f3.svg?style=flat-square&logo=mysql&logoColor=white)
+###
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
-![Tailwind.css](https://img.shields.io/badge/tailwind_css%20-%2314B1BB.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
+<p align="left">My code is simple, modular, efficient, and concise.</p>
 
-*other technologies that I use*
+###
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Firebase](http://img.shields.io/badge/-Firebase-FF7139?style=flat-square&logo=firebase&logoColor=ffffff&color=FFCA28)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Cplusplus](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Terminal](http://img.shields.io/badge/-Z_shell-0078D6?style=flat-square&logo=windows-terminal&logoColor=ffffff&color=4D4D4D)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=ffffff&color=FCC624)
+<h2 align="left">I code with</h2>
 
-<br />
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
+</div>
 
+###
 
-<!-- ### 📕 Latest Blog Posts
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfonzzoj&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonzzoj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-  <!-- BLOG-POST-LIST:START -->
-  <!-- Coming soon 😉 -->
-  <!-- BLOG-POST-LIST:END -->
+###
 
-<!-- ➡️ [more blog posts...]() -->
+<h2 align="left">Feel free to contact me for any project opportunities.</h2>
 
-<!-- ---  -->
+###
 
-### GitHub Facts    <img  width="20px" alt="Alfonzzoj | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
-<!-- Github stats card -->
+<div align="left">
+  <a href="https://www.linkedin.com/in/alfonzzoj/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:alfonzzoj.dev@gmail.com?subject=Hi%20Alfonzzoj%2C%20Project%20Collaboration%20Opportunity&body=Dear%20Jesus%20Alfonzo%2C%0D%0AI%20am%20%5BSender's%20Name%2FCompany%5D%2C%20interested%20in%20your%20skills%20as%20a%20Software%20Engineer%20%2F%20Full-Stack%20Developer%20with%20expertise%20in%20JavaScript%2C%20TypeScript%2C%20React%2C%20Node.js%2C%20Nest.js%2C%20Next.js%2C%20and%20Laravel.%20I%20have%20a%20potential%20project%20opportunity%20and%20would%20like%20to%20explore%20collaboration.%0D%0APlease%20feel%20free%20to%20reply%20to%20this%20email%20at%20%5Bmy%20email%5D%20to%20discuss%20further%20details.%20Looking%20forward%20to%20your%20response!%0D%0ABest%20regards%2C%0D%0A%5BSender's%20Name%5D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-<details>
-  <summary> ⚡: Github Stats 📊</summary>
-      <a >
-        <img   src="https://github-readme-stats.vercel.app/api?username=alfonzzoj&show_icons=true&theme=radical&include_all_commits=true" />
-      </a>
+###
 
-</details>
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/alfonzzoj/alfonzzoj/output/snake.svg" alt="Snake animation" />
 
-<!-- Top langs -->
-  <details>
-    <summary> ⚡: Most used languages  🧠</summary>
-      <a>
-        <img style="height:175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALFONZZOJ&layout=compact&hide=Hack&theme=radical" />
-      </a>
-  </details>
-  
-
-
-
-
-[Website]: alfonzzoj.github.io
-[facebook]: https://www.facebook.com/azzocode
-[twitter]: https://twitter.com/Alfonzzoj
-<!-- [youtube]: https://www.youtube.com/channel/UCqmZwSRUxvYI1aungO3LMlw) -->
-[instagram]: https://www.instagram.com/alfonzzoj
-[linkedin]: https://www.linkedin.com/in/alfonzzoj/
+###

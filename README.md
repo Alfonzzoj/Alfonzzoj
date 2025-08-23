@@ -1,8 +1,8 @@
-<img align="right" height="180" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzhxNzc4MGYxemI5d2I3bzMzNWZ0dzg3c2d2eWh6dzg1MmR3dmZraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/200w.gif"  />
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<img align="right" height="160" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzhxNzc4MGYxemI5d2I3bzMzNWZ0dzg3c2d2eWh6dzg1MmR3dmZraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/200w.gif"  />
 
 ###
 
@@ -31,23 +31,23 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo"  />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="55" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="55" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="55" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="55" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -65,17 +65,11 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alfonzzoj/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:alfonzzoj.dev@gmail.com?subject=Hi%20Alfonzzoj%2C%20Project%20Collaboration%20Opportunity&body=Dear%20Jesus%20Alfonzo%2C%0D%0AI%20am%20%5BSender's%20Name%2FCompany%5D%2C%20interested%20in%20your%20skills%20as%20a%20Software%20Engineer%20%2F%20Full-Stack%20Developer%20with%20expertise%20in%20JavaScript%2C%20TypeScript%2C%20React%2C%20Node.js%2C%20Nest.js%2C%20Next.js%2C%20and%20Laravel.%20I%20have%20a%20potential%20project%20opportunity%20and%20would%20like%20to%20explore%20collaboration.%0D%0APlease%20feel%20free%20to%20reply%20to%20this%20email%20at%20%5Bmy%20email%5D%20to%20discuss%20further%20details.%20Looking%20forward%20to%20your%20response!%0D%0ABest%20regards%2C%0D%0A%5BSender's%20Name%5D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alfonzzoj/alfonzzoj/output/snake.svg" alt="Snake animation" />
 
 ###

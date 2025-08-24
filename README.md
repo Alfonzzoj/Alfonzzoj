@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="220" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzhxNzc4MGYxemI5d2I3bzMzNWZ0dzg3c2d2eWh6dzg1MmR3dmZraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/200w.gif"  />
+<p align="left">My name is Jesus Alfonzo, a Software Engineer / Full-Stack web developer.</p>
 
 ###
 
-<p align="left">My name is Jesus Alfonzo, a Software Engineer / Full-Stack web developer.</p>
+<img align="right" height="220" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMzhxNzc4MGYxemI5d2I3bzMzNWZ0dzg3c2d2eWh6dzg1MmR3dmZraSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/200w.gif"  />
 
 ###
 
